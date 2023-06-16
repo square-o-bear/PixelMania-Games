@@ -1,0 +1,3 @@
+displayName = Pixel Mid
+author = PixelMania
+version = 0.1
